@@ -1,0 +1,14 @@
+Given a list of N integers, representing the height of mountains. Find the height of the tallest mountain.
+
+Input Format
+----
+all the elements of array A
+
+Output Format
+----
+output one line with one integer: the height of the tallest mountain for that test case.
+
+
+Example 1:
+Input: Array = [4,7,6,3,1]
+Output: 7
