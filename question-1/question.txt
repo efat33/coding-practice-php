@@ -1,0 +1,10 @@
+You are given an array A and an element X. Your task is to find whether the array A contains the element X or not.
+
+Input Format
+
+The first line contains all the elements of array A
+The second line contains the integer X — the element to be searched.
+
+Output Format
+
+Output "YES" if the element X is present in A, otherwise output "NO".
