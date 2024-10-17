@@ -1,0 +1,26 @@
+Insert an element at a specific position of an array
+
+Input Format
+----
+all the elements of array A
+Element
+position
+
+Output Format
+----
+Print the new array
+
+Example 1:
+Input: Array = [10, 20, 30, 40, 50]
+Element = 25
+Position = 3
+
+Output:  [10, 20, 25, 30, 40, 50]
+
+
+Example 2:
+Input: Array = [2, 4, 1, 8, 5]
+Element = 10
+Position = 2
+
+Output:  [2, 10, 4, 1, 8, 5]
