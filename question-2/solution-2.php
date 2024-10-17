@@ -19,7 +19,7 @@ function solution_1($array)
 }
 
 
-$output = solution($array);
+$output = solution_1($array);
 
 echo $output;
 
@@ -33,6 +33,6 @@ function solution_2($array)
    return $array[0];
 }
 
-$output = solution($array);
+$output = solution_2($array);
 
 echo $output;
